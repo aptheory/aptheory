@@ -10,4 +10,4 @@ Researcher at [QSAR Labs](https://qsarlabs.com/)<br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> 
 </p>
 
-Follow: [Linkedin](https://www.linkedin.com/in/thanawat-pi/) | [Threads](https://www.threads.com/@aptheory)
+Follow: [aptheory](https://aptheory.github.io/) | [Linkedin](https://www.linkedin.com/in/thanawat-pi/) | [Threads](https://www.threads.com/@aptheory) | [Medium](https://medium.com/@thanawat.pi)
