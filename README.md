@@ -1,7 +1,7 @@
 ### Hi, I'm Aungpao 👋
 
-PharmD Candidate at [Khon Kaen University](https://pharm.kku.ac.th/)<br>
-AI Researcher at [QSAR Labs](https://qsarlabs.com/)<br>
+Doctor of Pharmacy (PharmD)<br>
+Chemoinformatics Researcher at [QSAR Labs](https://qsarlabs.com/)<br>
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a> 
