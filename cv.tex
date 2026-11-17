@@ -23,7 +23,9 @@
 
 %----------BIBLIOGRAPHY & CITATION SETUP----------
 \usepackage[style=apa, backend=biber]{biblatex}
-\ExecuteBibliographyOptions{sorting=none} % Overrides apa.bbx's default sorting
+\ExecuteBibliographyOptions{sorting=none}
+\DeclareFieldFormat{extradate}{}
+% Overrides apa.bbx's default sorting, drop 2025a and 2025b 
 \addbibresource{thanawatpi.bib}
 
 % Automatically bold Piyasawetkul, T. / Thanawat in APA style
@@ -181,7 +183,16 @@
 	\nocite{*}
 	{%
 		\justifying
-		\printbibliography[heading=none, env=resumeitembib]
+		\printbibliography[heading=none, env=resumeitembib, notkeyword=conference]
+	}
+
+
+	%-----------CONFERENCE PRESENTATIONS-----------
+	\section{Conference Presentations}
+	\nocite{*}
+	{%
+		\justifying
+		\printbibliography[heading=none, env=resumeitembib, keyword=conference]
 	}
 	
 	
